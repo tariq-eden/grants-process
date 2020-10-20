@@ -9,8 +9,8 @@ This repository collects the documentation for the data collection and analysis 
 - Cleaned Data (data prepared for analysis - including both platform textual data and any other textual sources such as interviews). 
 
 ## Documents
-- Process documentation for qualitative analysis decisions and practices
-- Manuscipts 
+- Records (e.g., process documentation for qualitative analysis decisions and practices)
+- Manuscipts (e.g., paper drafts)
 - Reports 
 
 ## Figures 
