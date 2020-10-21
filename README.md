@@ -15,6 +15,7 @@ This repository collects the documentation for the data collection and analysis 
 - Reports 
 
 ## Figures 
+- Copies of data visualisation - figures, tables, graphs, etc., 
 
 ## Scripts  
 - Any scripts written in R for processing RAT data 
