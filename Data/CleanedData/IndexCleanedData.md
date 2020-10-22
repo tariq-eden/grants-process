@@ -5,7 +5,7 @@ DRAFT
 ## Phase 2
 
 ## Phase 1
-There were four main types of Platform Data preperated per batch of textaul data analysed: 
+There were four main types of Platform Data prepared per batch of textual data analysed (see archives for files): 
 #### claim_metadata
 This provided the list of unique claims, with associated informtion: 
 category (~discipline); group (who assessed the claim); workshop (when & where the claim was assesed)/   
