@@ -25,7 +25,7 @@ This repository collects the documentation for the data collection and analysis 
 ## Repositoary Exteranl Integrations 
 This repository is linked with the RAT board of the repliCATS project management software (Monday) through the following automated proccesses: 
 ### GitHub changes to Monday 
-- When pull request is opened in *RAT*, create an *item* (in the Data Management group) and sync future changes from GitHub
+- When pull request is opened in *RAT*, create an *item* (in the Data Management group) and sync future changes from GitHub (note, it doesn't need to be merged - just opened). 
 - When pushed to main branch of RAT, create an update in Data Management updates
 - When an issue is created in *RAT*, create an *item* (in the Data Management group) and sync future changes from GitHub
 - When an item id is mentioned in a commit to *RAT*, create an update to the relevant item
