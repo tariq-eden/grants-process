@@ -6,6 +6,9 @@ Project set-up in progress.
 ## Directory Structure
 This repository collects the documentation for the data collection and analysis conducted by RAT under the following folders/sub-folder system:
 
+### Archives 
+- Files prepared for archival in a public repository 
+
 ### Data 
 - PrimaryData (including the source files we recieve from the Data Management team - Raw data from the platfom is stored on their team repository). 
 - CleanedData (source data prepared for analysis - including both platform textual data and any other textual sources such as interviews). 
