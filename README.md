@@ -29,4 +29,6 @@ This repository is linked with the RAT board of the repliCATS project management
 - When an issue is created in *RAT*, create an *item* (in the Data Management group) and sync future changes from GitHub
 - When an item id is mentioned in a commit to *RAT*, create an update to the relevant item
 - When a comment is created on an issue of *RAT*, create an update in the connected item
+### Monday changes that add an issue to *.../RAT* on GitHub
+- When *Status* changes to *open*, create an issue in *RAT* 
 
