@@ -3,6 +3,34 @@
 ## Date Notes Taken (yyyymmdd) Context
 Notes 
 
+## 20202028 
+ICR 0.60 - nine out of the 25 reasonWAgg categories reach this 
+- Martin to send info to  update the documentation records.
+
+Codebook: 
+- need to review the descriptions and refocus to capture the new elicitation question. 
+- Tagging - could this be used to calculate reasonWAgg? 
+- Need to user-test the platform, including those features that have a material impact on the interpretation 
+
+Freetext discussion (rather than commenting on justifications) 
+- still need to keep the justifications attached to questions viewable in the platform.
+- Fallon is going to hunt down examples of what this would look like and circulate.  
+Github repository 
+- set up and ready to be given to the repliCATS group. 
+
+New-person: waiting to hear back from David; position description still in progress; 
+- need to be able to do the mixed methods analysis 
+
+Known-outcome claims: 
+- Updated in the google drives. Need to be merged (Eden) and case classifications (Andy) need to be done then ICR (Martin). 
+
+COVID claims: 
+- waiting on source files
+
+Ethics (UniMelb) 
+- Eden to get a handover and do training on new system (Infonetica ERM), then revisit the  original application and update with Phase 2 info (check amendments). Related chat in #research_ethics slack channel.
+
+
 ## 20201021 repliCATS Phase2 Planning Meeting 
 Two main changes (a) single trace claims ~1000-1500; multiple trace claims/networks of claims for the rest
 and (b) not just replicability but a whole suite of ‘credibility signals’ 
