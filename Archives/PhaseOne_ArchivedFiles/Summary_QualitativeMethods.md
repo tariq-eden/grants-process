@@ -24,7 +24,7 @@ We developed a codebook that specifes the analytic categories used to interpret 
 ### Interpretative categorisation of textual-platform-data by human-analysts (using Codebook V10) 
 ### Automated categorisation of textual-platform-data using 'reasonWAgg categories' based on human-analysed textual platform data. 
 
-## Computer-aided Qualitative Analysis Software (CAQAS) troubleshooting 
+### Computer-aided Qualitative Analysis Software (CAQAS) troubleshooting 
 
 ## Bibliography
  Dag Stenvoll, and Peter Svensson. 2011. ‘Contestable Contexts: The Transparent Anchoring of Contextualization in Text-as-Data’. Qualitative Research 11 (5): 570–86. https://doi.org/10.1177/1468794111413242.
