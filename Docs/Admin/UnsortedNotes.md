@@ -5,6 +5,33 @@ Notes
 ## 20201112
 Testing git / GitHub updates
 
+## 20201119 RAT Meeting 
+### Phase one wrap up? 
+Stuck. Not urgent. Need to get the anonymised data from David before we can set up the example NVivo project and related data-extracted examples 
+Next steps for known outcome claims? 
+another round for coding? Timing/budget - would need to be in the new year. Might not be worth it? Document the limitation instead and go with what we’ve got. 
+### Bushel claims: 
+Bushel 8-10 questions for overall paper - Samine has drafted questions which we need to go through and refine response scales etc., 
+Also, questions at level 3 and 4 similar to phase 1 - for replicability plus a question on relevance of level 3 or 4 claim to the overall paper. 
+Pilot at AIMOS 2020 (using phase 1 claims from one paper).
+Pick a short paper  
+What do we want for text for reasons? Separate out text-boxes for ReasonWAgg and use tag-clouds as a filter for what text we analyse for reasonWagg - and for qualitative reasoning. 
+Danger with tags that people use them even if they didn’t think about it in their reasoning 
+Credibility question - 
+Add triviality questions? Or is it included in the general validity? Include in the existing questions. 
+Reasoning text: 
+1 box for generalisability - with multiple y/n questions for specific dimensions.  
+1 box for validity - with multiple scales for types of validity    
+1 box for credibility  - force response 
+Discussion: 
+Tech limitations mean that threaded comments easily - need to decide if we want that.  
+Asynch discussion 
+Needs a longer window of time (toggle the close-claim function). 
+workshort May/June (alongside SIPS) Nov/Dec (alongside AIMOS) + 1.
+have participants do  a few single-claim assessments prior to doing the bushel claims. 
+have an expert in groups as a draw-card
+### Quick check in on RAT tasks - see Monday. 
+
 ## 20201028
 ICR 0.60 - nine out of the 25 reasonWAgg categories reach this
 - Martin to send info to  update the documentation records.
