@@ -1,12 +1,12 @@
 # RAT Repository
 
-Repository for the Reasoning Analysis Team within the RepliCATS project
+Documentation from the Reasoning Analysis Team (RAT) within the RepliCATS project
 
-Project set-up in progress.
+set-up in progress
 
 ## Directory Structure
 
-This repository collects the documentation for the data collection and analysis conducted by RAT under the following folders/sub-folder system:
+The documentation for the data collection and analysis conducted by RAT under the following folders/sub-folder system:
 
 ### Archives
 
@@ -14,8 +14,9 @@ This repository collects the documentation for the data collection and analysis 
 
 ### Data
 
-- PrimaryData (including the source files we receive from the Data Management team - Raw data from the platform is stored on their team repository).
-- CleanedData (source data prepared for analysis - including both platform textual data and any other textual sources such as interviews).
+- PrimaryData (including the source files we receive from the Data Management team, interview recordings etc.,).
+- PreparedData (source data prepared for analysis - including cleaned textual sources from the platform, interview transcriptions, etc.,).
+- Data Management (records of processes used for managing data within RAT).
 
 ### Docs (Text Documents)
 
@@ -30,7 +31,7 @@ This repository collects the documentation for the data collection and analysis 
 
 ### Scripts
 
-- Any scripts written for processing RAT data (e.g. R scripts)
+- Scripts written for processing RAT data with R
 
 ## Additional Notes
 
