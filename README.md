@@ -14,7 +14,7 @@ The documentation for the data collection and analysis conducted by RAT under th
 
 - PrimaryData (including the source files we receive from the Data Management team, interview recordings etc.,).
 - PreparedData (source data prepared for analysis - including cleaned textual sources from the platform, interview transcriptions, etc.,).
-- Data Management (records of processes used for managing data within RAT). 
+- Data Management (records of processes used for managing data within RAT).
 
 ### Docs (Text Documents)
 
@@ -35,7 +35,7 @@ The documentation for the data collection and analysis conducted by RAT under th
 
 ### Repository External Integrations
 
-This repository is linked with the RAT board of the repliCATS project management software (Monday) through the following automated proccesses:
+This repository is linked with the RAT board of the repliCATS project management software (Monday) through the following automated processes:
 
 #### Monday
 
