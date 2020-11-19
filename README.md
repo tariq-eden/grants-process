@@ -1,6 +1,4 @@
-# RAT Repository
-
-Documentation from the Reasoning Analysis Team (RAT) within the RepliCATS project
+# Reasoning Analysis Team (RAT) documentation for RepliCATS project
 
 set-up in progress
 
