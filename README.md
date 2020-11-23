@@ -1,10 +1,11 @@
 # Reasoning Analysis Team (RAT) documentation for RepliCATS project
 
-set-up in progress
+An overview of the RAT repository. For more detail on the structure and process more generally,
+see the [RAT Wiki](https://github.com/metamelb-repliCATS/RAT/wiki) 
 
 ## Directory Structure
 
-The documentation for the data collection and analysis conducted by RAT under the following folders/sub-folder system:
+A (proposal for) the folders/sub-folder structure used to document the data collection and analysis conducted by RAT:
 
 ### Archives
 
