@@ -5,22 +5,25 @@ see the [RAT Wiki](https://github.com/metamelb-repliCATS/RAT/wiki)
 
 ## Directory Structure
 
-A (proposal for) the folders/sub-folder structure used to document the data collection and analysis conducted by RAT:
+A (proposal for) the folders/sub-folder structure used to document the data collection and analysis conducted by RAT
+based on a combination of recommended directory structure for a repository and the folder structure in repliCATS shared drive
 
 ### Archives
 
-- Files prepared for archival in a public repository
+Files prepared for archival in a public repository
+- PhaseOne_ArchiveFiles
+- PhaseTwo_ArchiveFiles
 
 ### Data
 
 - PrimaryData (including the source files we receive from the Data Management team, interview recordings etc.,).
 - PreparedData (source data prepared for analysis - including cleaned textual sources from the platform, interview transcriptions, etc.,).
-- Data Management (records of processes used for managing data within RAT).
 
-### Docs (Text Documents)
+## Data Analysis (e.g., documentation for qualitative methods, analysis, practices, etc.,)
+- NVivo_CodingSummaries
 
+### Docs (all other text documents)
 - Admin (e.g., meeting notes, timelines, etc.)
-- Records (e.g., process documentation for methods, analysis, project decisions and practices, etc.,)
 - Manuscripts (e.g., paper drafts)
 - Reports
 
