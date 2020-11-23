@@ -1,6 +1,6 @@
 # Reasoning Analysis Team (RAT) documentation for RepliCATS project
 
-An overview of the RAT repository. For more detail on the structure and process more generally,
+An overview of the RAT repository. For details on the structure and process more generally,
 see the [RAT Wiki](https://github.com/metamelb-repliCATS/RAT/wiki) 
 
 ## Directory Structure
