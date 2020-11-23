@@ -57,4 +57,3 @@ This repository is linked with the RAT board of the repliCATS project management
 #### Local Devices
 
 - Integration with git local repositories via including RAT as a remote repository, creating pull-requests for updates.
-
