@@ -28,8 +28,11 @@ Stable versions of:
 - Queries (all - note that only hte final stable versions we used for analysis to be copied to Data Outputs)
 
 ### Data Management
-- KnownClaims
-- ScoreClaims
+Stable versions of key files relevant to sub-projects:
+- KnownClaims (to be included IF not wrapped up by end of phase 1, otherwise see Phase 1 Archives)
+- ScoreClaims_Phase1 (to be included for further analysis during phase 2)
+- CovidClaims (to be included for further analysis during phase 2)
+- ScoreClaims_Phase2 
 
 ### Data Outputs RAT 
 Stable versions of: 
