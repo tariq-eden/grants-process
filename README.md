@@ -8,32 +8,36 @@ see the [RAT Wiki](https://github.com/metamelb-repliCATS/RAT/wiki)
 A (proposal for) the folders/sub-folder structure used to document the data collection and analysis conducted by RAT
 based on a combination of recommended directory structure for a repository and the folder structure in repliCATS shared drive
 
-### Archives RAT
+### Archives RAT (files to be copied to repliCATS shared google-drive)
 
 Files prepared for archival in a public repository
 - PhaseOne_ArchiveFiles
 - PhaseTwo_ArchiveFiles
 
 ### Data Input
-
+Stable versions of:
 - PreparedData (source data prepared for analysis - including cleaned textual sources from the platform, interview transcriptions, etc.,).
 - PrimaryData (including the source files we receive from the Data Management team, interview recordings etc.,).
 
 ### Data Analysis (e.g., documentation for qualitative methods, analysis, practices, etc.,)
 - Analyst_calibrations
 - Analyst_ICR_calculations
-- Analyst_Training
-- Codebooks
+- Analyst_Training (files to be copied to repliCATS shared google-drive)
+- Codebooks (files to be copied to repliCATS shared google-drive)
 - NVivo_Exports
-- Queries
+- Queries (all - note that only hte final stable versions we used for analysis to be copied to Data Outputs)
 
 ### Data Management
 - KnownClaims
 - ScoreClaims
 
-### Data Outputs RAT
+### Data Outputs RAT 
+Stable versions of: 
+- reasonWAgg queries (files to be copied to repliCATS shared google-drive)
+- annonymised justification data (files to be copied to repliCATS shared google-drive)
+- qualitative analysis queries (files to be copied to repliCATS shared google-drive)
 
-### Figures
+### Figures 
 - Copies of data visualisation - figures, tables, graphs, etc.,
 
 ### Scripts
