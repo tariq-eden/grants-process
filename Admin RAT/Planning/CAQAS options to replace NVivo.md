@@ -7,6 +7,13 @@ We’ve budgeted 0.6 of a person at same level as Eden for RAT - David to help w
 
 ## Progress Details:
 
+### 20201203 - Update from David 
+As documented in the email exchanges, David will test downloading and using RQDA. 
+
+There are two seperate versions of RQDA, with overlapping contributors. One - https://github.com/Ronggui/RQDA - is a repository in a personal github, and has 27 forked version. The other one - https://github.com/RQDA - is a dedicated github project and has three contributors (including the person from the other version). Need to check, but my guess is that this version is more likely to be maintained. 
+
+In addition to RQDA, another R based tool that might be useful is QCA - which offers "An extensive set of functions to perform Qualitative Comparative Analysis: crisp sets ('csQCA'), temporal ('tQCA'), multi-value ('mvQCA') and fuzzy sets ('fsQCA'), using a GUI - graphical user interface."
+
 ### 20201123 - David’s recommendations having looked at RQDA.
 As documented in the email exchanges,
 RQDA is apparently a really nice package that does essentially anything NVivo does and is apparently straightforward to use. However the official R version on CRAN has been archived, which is not great. The problem is not with the package itself but with one that it depends on. If the package gets updated to use the correct dependency it will get back on CRAN. As such, it needs to be ported to dependency-V2 (because it relies on a dependency that drives the GUI interface which is pivotal to function) and while it could be fixed in theory David isn’t able to estimate how difficult that is.
