@@ -15,7 +15,14 @@ The value of transparent process and the potential of re-analysing textual data 
 
 ## Data Collection Process 
 
-## Data Formatting Decisions
+## Data Processing Pipeline
+### Integration of qualitative analysis data into repliCATS aggregation methods 
+To do: copy figure from Aggregation Documentation  
+
+### Data-processing using Computer-Aided Qualitative Data Analysis Software (CAQDAS): 
+To do: 
+- create pipeline visualisation 
+- summarise data-input types
 
 ## Qualitative Analysis Process 
 ### Developing key analytic categories 
