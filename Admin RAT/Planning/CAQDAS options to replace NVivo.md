@@ -7,6 +7,9 @@ We’ve budgeted 0.6 of a person at same level as Eden for RAT - David to help w
 
 ## Progress Details:
 
+### 20201207 - CAQDAS options 
+- Matt Shanks (a product design consultant) agreed with our assessment of NVivo and has offered to put us in contact with one of the designer/engineers working on covidence (ex-QSR) and with someone wokring on the qualitative side of the Cochrane projects (with the hope that they've come up against the problem of large textual data-sets).    
+
 ### 20201203 - Update from David 
 As documented in the email exchanges, David will test downloading and using RQDA. 
 
