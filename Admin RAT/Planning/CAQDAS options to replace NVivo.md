@@ -7,6 +7,11 @@ We’ve budgeted 0.6 of a person at same level as Eden for RAT - David to help w
 
 ## Progress Details:
 
+### 20201215 - CAQDAS alternatives
+In addition to the R package (which I can't get to work with the current version of R), there are also Python applications designed for qualitative analysis - e.g., PyPi that use the same Sqlite database format as used by RQDA allowing you to open your RQDA projects in PyQDA, and vice versa.
+- https://pypi.org/project/qualitative-coding/ 
+- https://pypi.org/project/PyQDA/
+
 ### 20201207 - CAQDAS options 
 - Matt Shanks (a product design consultant) agreed with our assessment of NVivo and has offered to put us in contact with one of the designer/engineers working on covidence (ex-QSR) and with someone wokring on the qualitative side of the Cochrane projects (with the hope that they've come up against the problem of large textual data-sets).    
 
