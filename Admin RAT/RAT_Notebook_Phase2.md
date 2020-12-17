@@ -4,13 +4,8 @@
 
 Notes
 
-## 20201202
-
-Update on CAQDAS tools: David is testing the RQDA download (see email).  
-
-Note, there are two seperate versions of [RQDA](http://rqda.r-forge.r-project.org/), with overlapping contributors. One - https://github.com/Ronggui/RQDA - is a repository in a personal github, and has 27 forked version. The other one - https://github.com/RQDA - is a dedicated github project and has three contributors (including the person from the other version). Need to check, but my guess is that this version is more likely to be maintained... 
- 
-In addition to RQDA, another R based tool that might be useful is [QCA](https://cran.r-project.org/web/packages/QCA/index.html) - which offers "An extensive set of functions to perform Qualitative Comparative Analysis: crisp sets ('csQCA'), temporal ('tQCA'), multi-value ('mvQCA') and fuzzy sets ('fsQCA'), using a GUI - graphical user interface."
+## 20201217 - Notes for next RAT meeting (in 2021)
+- See updates in the file documenting out search for a new CAQDAS. My current recommendation is that we get QDA Minor - note that if we go eith it, it's still worth hiring someone to help with the data-management (in addition to  general qualitative analysis) so as whoever we get will need the skills to help prep the data for QDA Minor and prep the export data from QDA minor for arhiving and for use in open-source CAQDAS like RDQA etc (i.e., skills with SQL, github, and R). While I'm slowly getting my head around github and SQL, I'm not confident that I can maintain replicable data-management practices yet and my R knowledge is still very basic. 
 
 ## 20201119 RAT Meeting
 
