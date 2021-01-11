@@ -18,7 +18,7 @@ another round for coding? Timing/budget - would need to be in the new year. Migh
 
 ### Bushel claims
 
-Bushel 8-10 questions for overall paper - Samine has drafted questions which we need to go through and refine response scales etc.,
+Bushel 8-10 questions for overall paper - Simine has drafted questions which we need to go through and refine response scales etc.,
 Also, questions at level 3 and 4 similar to phase 1 - for replicability plus a question on relevance of level 3 or 4 claim to the overall paper.
 Pilot at AIMOS 2020 (using phase 1 claims from one paper).
 Pick a short paper
