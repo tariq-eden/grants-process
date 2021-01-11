@@ -7,6 +7,30 @@ We’ve budgeted 0.6 of a person at same level as Eden for RAT - David to help w
 
 ## Progress Details:
 
+### 20201218 
+
+Chandra, Yanto, and Liang Shang. 2019. Qualitative Research Using R: A Systematic Approach. Singapore: Springer.
+
+### 20201217 - CAQDAS alternatives - QDA Minor
+Christina Silver (who runs the CAQDAS networking project in the UK and co-wrote the 'Using Software in Qualitative Research' text book), after hearing about our issues with the amount of data and project requirements etc., gave me this advice:
+- QDA Minor is the top recommendation as it was specifically designed for qual-heavy mixed-methods and is the best option for handling large data sets - it can also import from NVivo, allows for exporting everything in ways that are compatible with R, can be used by teams via merging (similar to NVivo but better), has track changes via a command log  function, and has a report manager that documents everything done for documentation, etc.,  While designed for Windows, there is a way to used on macs as well.  (Cost for Academic use: $595USD to purchase, or $238USD to lease per year ) https://www.surrey.ac.uk/sites/default/files/2020-11/qda-miner-distinguishing-features.pdf .
+- If we don't have the budget for QDA Minor, RQDA will do what it says but may present stability issues and will also have limitations in terms of handling textual data that will be frustrating for anyone used to running queries in dedicated CAQDAS (like NVivo) .
+
+### 20201215 - CAQDAS alternatives
+In addition to the R package (which I can't get to work with the current version of R), there are also Python applications designed for qualitative analysis - e.g., PyPi that use the same Sqlite database format as used by RQDA allowing you to open your RQDA projects in PyQDA, and vice versa.
+- https://pypi.org/project/qualitative-coding/ 
+- https://pypi.org/project/PyQDA/
+
+### 20201207 - CAQDAS options 
+- Matt Shanks (a product design consultant) agreed with our assessment of NVivo and has offered to put us in contact with one of the designer/engineers working on covidence (ex-QSR) and with someone wokring on the qualitative side of the Cochrane projects (with the hope that they've come up against the problem of large textual data-sets).    
+
+### 20201203 - Update from David 
+As documented in the email exchanges, David will test downloading and using RQDA. 
+
+There are two seperate versions of RQDA, with overlapping contributors. One - https://github.com/Ronggui/RQDA - is a repository in a personal github, and has 27 forked version. The other one - https://github.com/RQDA - is a dedicated github project and has three contributors (including the person from the other version). Need to check, but my guess is that this version is more likely to be maintained. 
+
+In addition to RQDA, another R based tool that might be useful is QCA - which offers "An extensive set of functions to perform Qualitative Comparative Analysis: crisp sets ('csQCA'), temporal ('tQCA'), multi-value ('mvQCA') and fuzzy sets ('fsQCA'), using a GUI - graphical user interface."
+
 ### 20201123 - David’s recommendations having looked at RQDA.
 As documented in the email exchanges,
 RQDA is apparently a really nice package that does essentially anything NVivo does and is apparently straightforward to use. However the official R version on CRAN has been archived, which is not great. The problem is not with the package itself but with one that it depends on. If the package gets updated to use the correct dependency it will get back on CRAN. As such, it needs to be ported to dependency-V2 (because it relies on a dependency that drives the GUI interface which is pivotal to function) and while it could be fixed in theory David isn’t able to estimate how difficult that is.
