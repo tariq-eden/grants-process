@@ -5,7 +5,14 @@
 Notes
 
 ## 20201217 - Notes for next RAT meeting (in 2021)
-- See updates in the file documenting out search for a new CAQDAS. My current recommendation is that we get QDA Minor - note that if we go eith it, it's still worth hiring someone to help with the data-management (in addition to  general qualitative analysis) so as whoever we get will need the skills to help prep the data for QDA Minor and prep the export data from QDA minor for arhiving and for use in open-source CAQDAS like RDQA etc (i.e., skills with SQL, github, and R). While I'm slowly getting my head around github and SQL, I'm not confident that I can maintain replicable data-management practices yet and my R knowledge is still very basic. 
+
+- See updates in the file documenting out search for a new CAQDAS. My current recommendation is that we get QDA Minor - note that if we go with it, it's still worth hiring someone to help with the data-management (in addition to  general qualitative analysis) so as whoever we get will need the skills to help prep the data for QDA Minor and prep the export data from QDA minor for archiving and for use in open-source CAQDAS like RDQA etc (i.e., skills with SQL, github, and R). While I'm slowly getting my head around github and SQL, I'm not confident that I can maintain replicable data-management practices yet and my R knowledge is still very basic.
+
+- a reminder that we need to a way to ensure that the datasets we analyse for Phase 2 are anonymised from the start so that we can provide share our processes for analysis without having to post-hoc anonymise (with phase 1 this is proving difficult)
+
+- Phase 1 Archiving:
+-- NVivo example project stuck: codebooks, cases, and classifications prepared; waiting on anonymised datasets to upload
+-- Example exports of NVivo data need to be anonymised therefore waiting on the NVivo example project.
 
 ## 20201119 RAT Meeting
 
