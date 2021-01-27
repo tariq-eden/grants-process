@@ -23,13 +23,13 @@ A subset of the participants were interviewed about their own individual reflect
 
 Following a trial and several discussions exploring options, a process was agreed upon where the Data-Management team would download data from the platform and prepare excel files that could be uploaded into our Computer-Aided Qualitative Data Analysis Software (CAQDAS), NVivo version 12. While this formatting process evolved over the course of the project, each batch included four file types (also see the data [pipeline overview](https://github.com/metamelb-repliCATS/aggreCAT)):
 
-1. J&C Files (Textual Responses by Claim): each row functions as a unit of textual data (either a justification or a comment), with a column for each of the characteristics of those responses (including a column for linking that data to the other file types).
+1. Justification_Comments Files (Textual Responses by Claim): each row functions as a unit of textual data (either a justification or a comment), with a column for each of the characteristics of those responses (including a column for linking that data to the other file types).
 
-2. Ratings Files (Numerical Responses by Claim): with one row for each participant per round per claim, columns were included for each question as well as for additional characteristics of those responses (including a column for linking that data to the other file types).
+2. Ratings_by_claim Files (Numerical Responses by Claim): with one row for each participant per round per claim, columns were included for each question as well as for additional characteristics of those responses (including a column for linking that data to the other file types).
 
-3. Claim Metadata Files: with one row per claim, columns were included for each of the characteristics of that claim (based on COS metadata for each claim: Claim id; journal; COS journal discipline; Web of science discipline).
+3. Claim_Metadata Files: with one row per claim, columns were included for each of the characteristics of that claim (based on COS metadata for each claim: Claim id; journal; COS journal discipline; Web of science discipline).
 
-4. Participant Demographic Files: with one row per participant, and columns for each of the demographic questions asked and each quiz-question answered.
+4. Demographics File: with one row per participant, and columns for each of the demographic questions asked and each quiz-question answered.
 
 For file types 1-3, we initially chose to batch response by claim (one file per claim) for the SIPS2019 workshop, the time required to upload each file (~1min per file) prompted us to change to batching in larger sets (e.g., by workshop).The demographics file was updated progressively with each workshop, with the full set uploaded with each batch of the other files.
 
