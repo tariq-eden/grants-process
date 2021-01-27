@@ -38,7 +38,7 @@ Depending on the data-processing pipeline, these file types required additional 
 For the SCORE data, there were 12 batches:
 
 | Claim Batch | Number of Claims| Number of Textual Responses |
-| :----------:| :--------------:|:--------------:|:--------------:|
+| :----------:| :--------------:|:--------------:|
 | 1 | 557 | 10198 |
 | 2 | 219 | 3459 |
 | 3 | 188 | 3489 |
