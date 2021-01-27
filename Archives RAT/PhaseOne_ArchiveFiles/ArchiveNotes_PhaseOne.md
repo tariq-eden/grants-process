@@ -12,7 +12,7 @@
 (use AMIOS19 and AIMOS20 datasets that have been anonymised as per previous step). READY FOR UPLOAD (check NVivo File compatibility).
 -	Spreadsheets of actual data export from NVivo (for unique ids per row of data) - tbc
 (Eden to test what will work for that. Martin can organise case classifications to be done in ~ Nov if needed. - WAITING)
--	Methods Documentation - Eden to update/clean-up, Martin to review. DRAFT COMPLETE
+-Methods Documentation Summary - Eden to update/clean-up, Martin to review. DRAFT COMPLETE
 
 ## Questions to resolve:
 - Check for responses involvement in paper and exclude that answer from the data set (to preserve anonymity)
