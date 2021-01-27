@@ -65,14 +65,13 @@ Within NVivo, file types 2-4 were used to create Case Classifications. For insta
 These classifications were applied manually in NVivo, and given the workflow in this project, this was a separate process to the use of 'nodes' to apply analytic categories to text units. Once both case classifications and nodes were applied to text-units, queries were run within NVivo to extract relevant subsets of data relevant to specific research questions (see Qualitative Analysis Process for more detail).
 
 For each batch of data, an NVivo Project was created with the relevant files processed and uploaded. Following recommendations in Woolf and Silver (2017, 108), for each NVivo Project a process of distribution-merge-distribution was used. The recommended steps involved in this process can be described as follows (Woolf and Silver 2017, 110):
-- A 'merge-manager' creates the NVivo project - including uploading all sources and naming the cases, classifications, and nodes
+- A 'merge-manager' creates a base NVivo project by uploading the relevant source files, 'codebook' of nodes, and naming any cases and classifications needed for linking files.
 - Each analyst is sent a copy of this file to complete a specified task (e.g., link case-classification to a file, or analyse a set of text-units using the nodes)
 - Each analyst completes their task in their version of the NVivo project (the 'sub-project'), remembering to avoid adding or deleting sources or cases, or deleting or changing the names of nodes, cases, or classifications, saves their work, creates a copy of their NVivo sub-project, and sends it to the merge-manager for review.
 - The merge-manager opens each submitted sub-project to confirm that each one contains all the sources in the master it was initially copied from and imports each sub-project into a master-project to be reviewed.
 - An analyst meeting is held to discuss any suggested additions, modifications, or deletions to the NVivo project, as well as any sources that need to be added to the project.
 - If required, the merge-manager adds any new sources to the updated master-project, makes any agreed-upon modifications, and removes any agreed-upon deletions, before copying to re-send to each analyst for the next round of analysis (and archives a copy for the project records). Once received, each analyst continues work on the newest copy of the project (archiving the old version).
 - Repeat as required.
-
 
 ## Qualitative Analysis Process
 
