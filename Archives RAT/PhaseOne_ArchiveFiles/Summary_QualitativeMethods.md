@@ -21,15 +21,15 @@ A subset of the participants were interviewed about their own individual reflect
 
 ## Data-processing
 
-Following a trial and several discussions exploring options, a process was agreed upon where the Data-Management team would download data from the platform and prepare excel files that could be uploaded into our Computer-Aided Qualitative Data Analysis Software (CAQDAS), NVivo version 12. While this formatting process evolved over the course of the project, each batch included four file types:
+Following a trial and several discussions exploring options, a process was agreed upon where the Data-Management team would download data from the platform and prepare excel files that could be uploaded into our Computer-Aided Qualitative Data Analysis Software (CAQDAS), NVivo version 12. While this formatting process evolved over the course of the project, each batch included four file types (also see the data [pipeline overview](https://github.com/metamelb-repliCATS/aggreCAT)):
 
-1. J&C Files (Textual Responses by Claim): each row functions as a unit of textual data (either a justification or a comment), with a column for each of the characteristics of those responses (including a column for linking that data to the other file types) - column names/types detailed in the Aggregation Data-pipeline Overview.
+1. J&C Files (Textual Responses by Claim): each row functions as a unit of textual data (either a justification or a comment), with a column for each of the characteristics of those responses (including a column for linking that data to the other file types).
 
-2. Ratings Files (Numerical Responses by Claim): with one row for each participant per round per claim, columns were included for each question as well as for additional characteristics of those responses (including a column for linking that data to the other file types) - column names/types detailed in the Aggregation Data-pipeline Overview.
+2. Ratings Files (Numerical Responses by Claim): with one row for each participant per round per claim, columns were included for each question as well as for additional characteristics of those responses (including a column for linking that data to the other file types).
 
-3. Claim Metadata Files: with one row per claim, columns were included for each of the characteristics of that claim (based on COS metadata for each claim: Claim id; journal; COS journal discipline; Web of science discipline) - column names/types detailed in the Aggregation Data-pipeline Overview.
+3. Claim Metadata Files: with one row per claim, columns were included for each of the characteristics of that claim (based on COS metadata for each claim: Claim id; journal; COS journal discipline; Web of science discipline).
 
-4. Participant Demographic Files: with one row per participant, and columns for each of the demographic questions asked and each quiz-question answered - column names/types detailed in the Aggregation Data-pipeline Overview.
+4. Participant Demographic Files: with one row per participant, and columns for each of the demographic questions asked and each quiz-question answered.
 
 For file types 1-3, we initially chose to batch response by claim (one file per claim) for the SIPS2019 workshop, the time required to upload each file (~1min per file) prompted us to change to batching in larger sets (e.g., by workshop).The demographics file was updated progressively with each workshop, with the full set uploaded with each batch of the other files.
 
@@ -80,11 +80,11 @@ For each batch of data, an NVivo Project was created with the relevant files pro
 
 Our principal unit of analysis was the justifications that participants provided for their prediction of the replicability of a claim. In analysing these, we explored trends in reasoning within these justifications for each claim across multiple individuals and multiple groups. In addition, we  explored trends within group-level and individual-level justifications across multiple claims.
 
-The process of analysing this textual data involved multiple interdependent practices, however for brevity these are summarised by type below.
+The process of analysing this textual data involved iterative rounds of interdependent practices: data familiarising to develop analytic categories and stabalising these through training and codebook refinement; context-based interpertions of textual responses in terms of selected analytic categories; automated indexing of textual data; and querying the indexed datasets in relation to specific research questions. However, for brevity, these are summarised in a broadly chronological sense below.
 
-### Developing key analytic categories
+### Developing analytic categories
 
-We developed a codebook that specifies the analytic categories used to interpret the textual data collected during the repliCATS project. The development of this codebook, and use of relevant analytic categories, can be summarised in terms of qualitative analytic task types (adapted from Woolf and Silver (2017)).
+We developed a codebook that specifies the key analytic categories used to interpret the textual data collected during the repliCATS project. The development of these analytic categories, and the iterative use of relevant versions of the codebook collecting these categories, can be summarised in terms of qualitative analytic task types (adapted from Woolf and Silver (2017).
 
 | Analytic Task Type  | Task Description  | Summary of Task during Phase   | Key Documents |
 |- |- |- |- |
@@ -95,17 +95,21 @@ We developed a codebook that specifies the analytic categories used to interpret
 | Reflecting:   | The process of reflection includes recording analytic insights so far and reviewing the analytic processes.  | Based on the experiences during Phase 1, we learnt several lessons about both the process of dealing with large-sets of textual data and of developing a Codebook that can be used reliably by multiple analysts. In Phase 2, we will be both reviewing the CAQDAS we use and refining out Codebook prior to analysis of the data collected so far (and any future data collected).   |  See Phase 2 Documentation   |
 | Interrogating:   | The process of interrogation aims at asking questions about data and the work we have done so far.  For example, this may involve identifying related units of content-meaning by investigating the patterns of co-occurrence between different coded evocative terms.   | This part of the qualitative research process will form part of Phase 2.   | See Phase 2 Documentation  |
 
-### Interpretative categorisation of textual-platform-data by human-analysts (using Codebook V10)
+### Interpretative categorisation of textual-platform-data by human-analysts
 
-For each J&C file uploaded, each text-unit needed to be read such that all relevant analytic categories ('nodes' in NVIvo terminology) could be applied.
+For each NVivo project, all responses (text-units) needed to 'coded' with all all relevant analytic categories (nodes) as detailed in the relevant codebook.
 
-Following training, each analyst used a version of the base NVivo project to read an assigned set of text-units, interpete these as responses to the elicitation questions within any available context, and index each responses to the applicable nodes from the relevant codebook.
+Codebook version 10 was considered a stable version of our main set of analytic categories for the purpose of Phase 1 (of these a subset use selected as 'reasonWAgg categories').
 
-### Automated categorisation of textual-platform-data using 'reasonWAgg categories' based on human-analysed textual platform data
+For each textual response, multiple analytic categories may be relevant Determining which combination of analytic categories apply depends on a context-based reading of each response. For example, the context for a given text-unit may include the type of question eliciting the response, and the discipline of the claim the participant is assessing.
+
+Following training, each analyst used a copy of the base NVivo project to read an assigned set of text-units, interpete these as responses to the elicitation questions within any available context, and index each responses to the applicable nodes from the relevant codebook.
+
+### Automating the indexing of textual-data
 
 Once a quarter of the SCORE claims were analysed manually, the textual data from the remaining batches of claims were processed using the ‘autocode’ function in NVivo, with the manually coded data as the reference sets and a sub-set of the main codebook (the reasonWAgg Categories).
 
-The reasonWAgg Categories included 25 nodes, as detailed [here]. A query was run each batch cross-referencing each the reasonWAgg categories by participant per claim. The output of this query provides an indication of how many different categories of reasoning attributed to each participants based on their responses for any given claim. These query outputs were combined and provided to the Aggregation team, see [here] for more detail.
+These reasonWAgg Categories included 25 nodes, as detailed [here]. Following the auto-code process, a query was run for each batch cross-referencing each the reasonWAgg categories by participant per claim. The output of this query provides an indication of how many different categories of reasoning attributed to each participants based on their responses for any given claim. These query outputs were combined and provided to the Aggregation team, see [here] for more detail.
 
 ### Calculating the inter-coder reliability (ICR) of analytic categories
 
@@ -130,15 +134,7 @@ In this project, ICR was computed as a Krippendorff’s alpha score for each ana
 
  To be included in the reasonWAgg aggregations, a node required either a minimum ICR of 0.66  or an ICR between two coders of at least 0.75 and a minimum overall ICR of 0.50. However, this cut-off was not required for qualitative analyses; instead the ICR will be reported (as a Krippendorff’s alpha) at a node-specific level for the relevant data-set when discussed in relation to specific research questions.
 
-### Computer-aided qualitative data analysis software (CAQDAS) troubleshooting
-
-To do.
-
-### Integration of qualitative analysis data into repliCATS aggregation methods
-
-To do: copy figure from Aggregation Documentation
-
-## Bibliography
+## Bibliography (tbc)
 
  [Dag Stenvoll, and Peter Svensson. 2011. ‘Contestable Contexts: The Transparent Anchoring of Contextualization in Text-as-Data’. Qualitative Research 11 (5): 570–86](https://doi.org/10.1177/146879411141324)
 
