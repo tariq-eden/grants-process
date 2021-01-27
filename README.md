@@ -5,14 +5,18 @@ see the [RAT Wiki](https://github.com/metamelb-repliCATS/RAT/wiki)
 
 ## Directory Structure
 
-A (proposal for) the folders/sub-folder structure used to document the data collection and analysis conducted by RAT
+A (proposed) outline of the folders/sub-folder structure used to document the data collection and analysis conducted by RAT
 based on a combination of recommended directory structure for a repository and the folder structure in repliCATS shared drive
 
 ### Archives RAT (files to be copied to repliCATS shared google-drive)
 
-Files prepared for archival in a public repository
-- PhaseOne_ArchiveFiles
-- PhaseTwo_ArchiveFiles
+Files prepared for archival in a public repository, including: 
+
+PhaseOne_ArchiveFiles:
+- Example Documentation
+- Summary of Qualitative Methods
+
+PhaseTwo_ArchiveFiles
 
 ### Data Input
 Stable versions of:
