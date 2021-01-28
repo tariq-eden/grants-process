@@ -162,7 +162,7 @@ Wästerfors, David, Marlin Åkerström, and Katarina Jacobsson. 2014. ‘Reanaly
 
 Woolf, Nicholas H., and Christina Silver. 2017. Qualitative Analysis Using NVivo: The Five-Level QDA Method. Developing Qualitative Inquiry. New York: Routledge.
 
-
+## Footnotes
 
 [^1]: Given these traditions, qualitative studies are often considered to rely upon a relativistic epistemology. However, qualitative methods can be, and are, used within a range of theoretical frameworks: from strong social construction to positivist style realism, as well as – more recently – various approaches that seek to side-step this dichotomy (Forrester 2010, 18–32).
 
