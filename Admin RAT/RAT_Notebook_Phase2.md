@@ -4,6 +4,18 @@
 
 Notes
 
+## 20210204 - Notes from meeting Eden/Fazil 
+Disucssed what requirements RAT has of the platform data and options for accessing/preparing it for Phase 2. 
+Good news is that we should be able to have direct access to the Phase 2 database backup (updated by batch) that we can then query using R/SQL. 
+Fazil also going to ask if we can have equivilant direct access to the Phase 1 database backup so that we can query it like we will for Phase 2 (to work out our data-preperation pipelines. 
+
+## 20210204 - RAT Meeting Martin, Eden, Fallon, Fiona
+- Went through the list of todos/stucks of Monday. 
+- Eden to follow up with Fazil about platform data access
+- Martin to follow up with David about data-pipeline and where we are at with hiring someone 
+- Martin & Eden to meet next week to work out next steps in the data-management for RAT (likely ~3 seperate data-flows: reasonWAgg analysis for batched claims; reasonWAgg analysis for single-trace claims; qualitative analysis for batched claims + single trace claims (as well as next steps in hiring someone). 
+- Martin to follow up on Ethics
+
 ## 20201217 - Notes for next RAT meeting (in 2021)
 
 - See updates in the file documenting our search for a new CAQDAS. My current recommendation is that we get QDA Minor - note that if we go with it, it's still worth hiring someone to help with the data-management (in addition to  general qualitative analysis) so as whoever we get will need the skills to help prep the data for QDA Minor and prep the export data from QDA minor for archiving and for use in open-source CAQDAS like RDQA etc (i.e., skills with SQL, github, and R). While I'm slowly getting my head around github and SQL, I'm not confident that I can maintain replicable data-management practices yet and my R knowledge is still very basic.
