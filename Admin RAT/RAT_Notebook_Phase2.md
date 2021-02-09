@@ -4,6 +4,18 @@
 
 Notes
 
+## 20210210 - Update on Database access
+Fazil has got us a copy of the backup Phase1 Database. We need to work out how to connect to it from R Studio.  
+
+In Phase 2, there will likely be two databases (yet to be confirmed), one for the two instances of the platform: one for single-trace and one for bushel. To pull those together later will be difficult (especially without much better R or Python skills). However, in order to get our timelines, this is needed by the tech team.
+
+Single-trace has been approved for the tech-team to start on it, questions to be finalised by end of the week.
+
+Wording changes for questions need a three-five day turn around.
+
+Transfers from phase1 to phase2 data, not sure about badges and counts but the usernames etc., will be kept. Usernames will still be the emails. If two instances of the platform (i.e., two databases) need to do some celan up for the participant details. 
+
+
 ## 20210204 - Notes from meeting Eden/Fazil 
 Disucssed what requirements RAT has of the platform data and options for accessing/preparing it for Phase 2. 
 Good news is that we should be able to have direct access to the Phase 2 database backup (updated by batch) that we can then query using R/SQL. 
