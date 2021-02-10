@@ -143,6 +143,18 @@ In this project, ICR was computed as a Krippendorff’s alpha score for each ana
 
  To be included in the reasonWAgg aggregations, a node required either a minimum ICR of 0.66  or an ICR between two coders of at least 0.75 and a minimum overall ICR of 0.50. However, this cut-off was not required for qualitative analyses; instead the ICR will be reported (as a Krippendorff’s alpha) at a node-specific level for the relevant data-set when discussed in relation to specific research questions.
 
+### Exporting data-outputs from NVivo
+
+In Phase 1, the data-outputs from NVivo were simply the application-counts of the relevant analytic categories.
+
+All batches were queried for the number of times each reasonWAgg category (node /analytic category) was applied across each claim by each participant (within a batch of claims).
+
+In addition, manually-coded batches of claims (SIPS19 and AIMOS19) were queried for the number of each node applied (manually) to each claim.
+
+Within NVivo these outputs were saved so that they can be linked with the relevant text-units underlying those counts.
+
+To support re-analysis anonymised versions of our source-files have been included in the archive with the identification of each response matching the relevant column type in the output files.
+
 ## Bibliography (tbc)
 
  [Dag Stenvoll, and Peter Svensson. 2011. ‘Contestable Contexts: The Transparent Anchoring of Contextualization in Text-as-Data’. Qualitative Research 11 (5): 570–86](https://doi.org/10.1177/146879411141324)
