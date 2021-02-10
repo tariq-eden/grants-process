@@ -4,8 +4,25 @@
 
 Notes
 
+## 20210210 RAT meeting
+Report on data pipeline:
+- not much progress yet but plan to have a single Github repository for all platfrom backup databases (phase 1, phase 2 single-trace, phase 2 bushel).
+
+Phase 1 output:
+- reasonWAgg outputs already ready, annonymised version of sourcefiles (taking out round-2 flushing responses)
+- manual coding outputs for SIPS & AIMOS2019 to be prepared (Eden), anannonymised version of sourcefiles (taking out round-2 flushing responses).
+
+Report on hiring:
+- a few names have been put forward, Martin to look into that this week.
+
+Review the stuck-items in Monday:
+- Most qual tasks stuck until we hire our new person and/or the elicitation process has been finalised
+
+Next steps:
+- Eden to set up the manual-coding outputs from NVivo.
+- Martin to follow up on filling the outstanding position, and the anonymisation of the source-data from phase 1.
 ## 20210210 - Update on Database access
-Fazil has got us a copy of the backup Phase1 Database. We need to work out how to connect to it from R Studio.  
+Fazil has got us a copy of the backup Phase1 Database. We need to work out how to connect to it from R Studio.
 
 In Phase 2, there will likely be two databases (yet to be confirmed), one for the two instances of the platform: one for single-trace and one for bushel. To pull those together later will be difficult (especially without much better R or Python skills). However, in order to get our timelines, this is needed by the tech team.
 
@@ -13,19 +30,19 @@ Single-trace has been approved for the tech-team to start on it, questions to be
 
 Wording changes for questions need a three-five day turn around.
 
-Transfers from phase1 to phase2 data, not sure about badges and counts but the usernames etc., will be kept. Usernames will still be the emails. If two instances of the platform (i.e., two databases) need to do some celan up for the participant details. 
+Transfers from phase1 to phase2 data, not sure about badges and counts but the usernames etc., will be kept. Usernames will still be the emails. If two instances of the platform (i.e., two databases) need to do some celan up for the participant details.
 
 
-## 20210204 - Notes from meeting Eden/Fazil 
-Disucssed what requirements RAT has of the platform data and options for accessing/preparing it for Phase 2. 
-Good news is that we should be able to have direct access to the Phase 2 database backup (updated by batch) that we can then query using R/SQL. 
-Fazil also going to ask if we can have equivilant direct access to the Phase 1 database backup so that we can query it like we will for Phase 2 (to work out our data-preperation pipelines. 
+## 20210204 - Notes from meeting Eden/Fazil
+Disucssed what requirements RAT has of the platform data and options for accessing/preparing it for Phase 2.
+Good news is that we should be able to have direct access to the Phase 2 database backup (updated by batch) that we can then query using R/SQL.
+Fazil also going to ask if we can have equivilant direct access to the Phase 1 database backup so that we can query it like we will for Phase 2 (to work out our data-preperation pipelines.
 
 ## 20210204 - RAT Meeting Martin, Eden, Fallon, Fiona
-- Went through the list of todos/stucks of Monday. 
+- Went through the list of todos/stucks of Monday.
 - Eden to follow up with Fazil about platform data access
-- Martin to follow up with David about data-pipeline and where we are at with hiring someone 
-- Martin & Eden to meet next week to work out next steps in the data-management for RAT (likely ~3 seperate data-flows: reasonWAgg analysis for batched claims; reasonWAgg analysis for single-trace claims; qualitative analysis for batched claims + single trace claims (as well as next steps in hiring someone). 
+- Martin to follow up with David about data-pipeline and where we are at with hiring someone
+- Martin & Eden to meet next week to work out next steps in the data-management for RAT (likely ~3 seperate data-flows: reasonWAgg analysis for batched claims; reasonWAgg analysis for single-trace claims; qualitative analysis for batched claims + single trace claims (as well as next steps in hiring someone).
 - Martin to follow up on Ethics
 
 ## 20201217 - Notes for next RAT meeting (in 2021)
