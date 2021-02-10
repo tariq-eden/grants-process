@@ -16,12 +16,14 @@ When shared, the database backups for Phase 2 will also be stored here (note tha
 The Data-Management-Team is refining the data-processing pipeline for the project as a whole (so RAT may not need to access to databases directly, tbc). 
 
 Within RAT, we expect to have two distinct data-processing needs for Phase 2 across ~6 different data-pipelines: 
-a) A process of manually-coding the free-text responses  (using a refined Codebook, V11-tbc), for: 
+
+A process of manually-coding the free-text responses  (using a refined Codebook, V11-tbc), for: 
 1. phase1-claims
 2. single-claims
 3. bushel-claims
 4. A process for analysing the manually-coded free-text responses from across both Phase 2 (single-trace & bushel claims) and Phase 1. 
-b) A process for auto-coding the free-text responses (using a refined reasonWAgg Codebook, V6 -tbc) and extracting the code-application counts per-participant/per-claim/per-node, for both:
+
+A process for auto-coding the free-text responses (using a refined reasonWAgg Codebook, V6 -tbc) and extracting the code-application counts per-participant/per-claim/per-node, for both:
 5. single-claims 
 6. bushel-claims
 
