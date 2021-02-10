@@ -5,8 +5,6 @@
 This document follows on from the [documentation in Phase 1](https://docs.google.com/document/d/1TFhaIv8YKr9xwT5fN_R3SKfFPBTzax5P/edit#) as an in-progress record of our approaches to collecting and analysing textual within the repliCATS project (formatted by actual approaches taken, with any circumstances where these differ from those planned included along with relevant literature informing these decisions).
 
 ## Data Collection
-## Data Inputs
-## Data Formatting
 ## Data Management
 The Tech-Team use PostgreSQL (Version 9.6) for their database management, so to access the back-up databases shared with us we need to use this as well. Once the databases are unzipped and openned on PostgreSQL, we should be able to connect to them from R-Studio to integrate when query / run any scripts on those database-backups with the rest of the analysis. 
 
@@ -31,6 +29,8 @@ A process for auto-coding the free-text responses (using a refined reasonWAgg Co
 - Given the databases for single-trace-claims and bushel-claims are seperate, combined analyses will be more difficult and, unless crucial for existing research questions, should be avoided.  
 - 
 
+## Data Inputs
+## Data Formatting
 ## Data Analysis
 ### Approach to Qualitative Analysis (literature review)
 ### Analyst Training
